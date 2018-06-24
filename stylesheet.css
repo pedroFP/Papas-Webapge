@@ -32,8 +32,8 @@ img {
   text-align: justify;
 }
 
-p, h3, img {
-
+p {
+  font-size: 1.2em;
 }
 
 footer {

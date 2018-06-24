@@ -1,0 +1,30 @@
+.jumbotron {
+  background-color: #3ee952;
+}
+
+.jumbotron h1 {
+  padding-left: 33.3%;
+  color: white;
+}
+
+.papa{
+  box-sizing: border-box;
+  max-width: 23%;
+  left: 38.3%;
+  border-radius: 50%;
+  position:relative;
+    border:4px solid white;
+}
+
+.col {
+  box-sizing: border-box;
+  padding: 2%;
+  text-align: justify;
+}
+
+footer {
+  background-color: black;
+  color: white;
+  text-align:center;
+  padding: 2.5%;
+}

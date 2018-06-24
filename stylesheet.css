@@ -7,23 +7,33 @@
   color: white;
 }
 
+.main {
+  border: 10px;
+}
+
+img {
+    width:100%;
+}
+
 .papa{
   box-sizing: border-box;
   max-width: 23%;
   left: 38.3%;
   border-radius: 50%;
   position:relative;
-    border:4px solid white;
+  border:4px solid white;
+  padding: 0px;
 }
 
 .col {
   box-sizing: border-box;
-  padding: 2%;
+  padding-left: 30px;
+  padding-right: 30px;
   text-align: justify;
 }
 
-img {
-    width:100%;
+p, h3, img {
+
 }
 
 footer {
@@ -32,5 +42,3 @@ footer {
   text-align:center;
   padding: 2.5%;
 }
-
-/home/pedro/Desktop/papa-digital/MiPagina/images/foto1.jpg
